@@ -1,0 +1,7 @@
+name 'tools'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures tools'
+long_description 'Installs/Configures tools'
+version '0.1.0'
